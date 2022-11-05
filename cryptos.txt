@@ -1,0 +1,17 @@
+"A perpetual contract is a special type of futures contract, 
+but unlike the traditional form of futures, it doesn’t have 
+an expiry date, and it is often traded at a price that is 
+equal to or very similar to spot markets."
+
+https://ftx.com/api
+
+1. BTC: BTC/USD
+2. ETH: ETH/USD
+3. SOL: SOL/USD
+4. ADA: ADA-PERP
+5. DOT: DOT/USD
+6. MATIC: MATIC/USD
+7. EGLD: EGLD-PERP
+8. DOGE: DOGE/USD
+9. XRP: XRP/USD
+10. UNI: UNI/USD
